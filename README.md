@@ -49,7 +49,19 @@ cd ux-high-bias
 npm install
 npm run dev
 ```
+## 🛠️ Utility Scripts
 
+This project includes handy Bash scripts for image processing:
+
+- `scripts/make-montage.sh` — Batch rotate, resize, and create image montages.
+- `scripts/mark-rotation-candidates.sh` — (Describe functionality here.)
+
+### Usage
+
+From the project root, run:
+
+```sh
+bash scripts/make-montage.sh [folder] [columns]
 
 ### 👨‍💻 Preparations
 Before you plan your launch, here's what you’ll (probably) need:
