@@ -1,0 +1,17 @@
+# Next.js
+.next/
+out/
+build/
+
+# Node
+node_modules/
+
+# System files
+.DS_Store
+secret/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.log
