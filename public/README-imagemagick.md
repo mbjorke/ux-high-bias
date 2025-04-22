@@ -10,11 +10,11 @@ This guide helps you batch-rotate images and create collages from the command li
 brew install imagemagick
 ```
 
-## 2. Prepare Your Workspace
+## 2. Prepare Your Workspace (i.e. create your goofy directory, and then navigate into it)
 
 ```bash
-mkdir -p public/images
-cd public/images
+mkdir -p public/goofy
+cd public/goofy
 ```
 
 ## 3. Backup Originals (Recommended)
@@ -23,7 +23,7 @@ mkdir originals
 cp *.jpg originals/
 ```
 
-## 4. Batch Rotate Images
+## 4. Batch Rotate Images (compass degrees)
 Rotate all JPGs 90° clockwise:
 
 ```bash
