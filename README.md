@@ -8,14 +8,16 @@ Welcome to UX HIGH BIAS — where you take control, learn the skills that matter
 
 No fluff. No hype. Just real tools, real growth, and real command line confidence.
 
-## 🎯 What is this?
+## 🌊 What is this?
 
 A highly opinionated, analog-inspired site template built with:
 
-- 🧩 **Next.js** (v15+)
-- 🎨 **TailwindCSS** (for that mixtape cover energy)
-- 🎬 **Framer Motion** (because static is a vibe killer)
+- 🌊 Windsurf.ai (The nr 1 AI-powered VSCode platform)
+- 🧩 Next.js (v15+)
+- 🎨 TailwindCSS
 - 🔍 Typescript, Jest, and all the fixings
+- AWS Amplify (tutorial coming)
+- GitHub (tutorial coming)
 
 Built for *creatives who ship weird ideas* and *make clients go “ohhh”.*
 
@@ -94,9 +96,11 @@ git init
 gh repo create ux-high-bias --public --source=. --remote=origin
 ```
 
-5. Commit & Push (only git commands, no need to remember)
+5. Commit & Push (only git commands, you ever need to remember)
 ```bash
 git add .
 git commit -m "Initial commit"
 git push -u origin main
 ```
+
+---
