@@ -1,118 +1,76 @@
-------# 🎛️ UX HIGH BIAS — a mixtape of design clarity
+# UX-HIGH-BIAS
 
-Are you feeling overwhelmed by AI Vibes?
-Worried you’re not learning the right tools to keep up?
-Ready to master vibe coding—not just for today, but for a lifetime?
-
-Welcome to UX HIGH BIAS — where you take control, learn the skills that matter, and build your own unique coding vibe.
-
-No fluff. No hype. Just real tools, real growth, and real command line confidence.
-
-## 🌊 What is this?
-
-A highly opinionated, analog-inspired site template built with:
-
-- 🌊 Windsurf.ai (The nr 1 AI-powered VSCode platform)
-- 🧩 Next.js (v15+)
-- 🎨 TailwindCSS
-- 🔍 Typescript, Jest, and all the fixings
-- AWS Amplify (tutorial coming)
-- GitHub (tutorial coming)
-
-Built for *creatives who ship weird ideas* and *make clients go “ohhh”.*
-
-## 🔥 Why "High Bias"?
-
-Because UX is never neutral.  
-It's tape and intuition and "wait, what if...".
-
-We embrace:
-- ✏️ Rough sketches over pixel perfection  
-- 🎙️ Clarity over hype  
-- 📼 Zines over slideshows  
-
-## 📦 Features
-
-- ⚡ Hero section with motion  
-- 🧠 Carousels for your thought-leader drops  
-- 🌀 Zine layout (soon™)  
-- 🎚️ Modular components  
-- 🫐 Clean commit history (because Git tells your real story)
-
-## 🛠️ Getting Started
-
-Clone it, tweak it, break it:
-
-```bash
-git clone https://github.com/yourusername/ux-high-bias.git
-cd ux-high-bias
-npm install
-npm run dev
-```
-## 🛠️ Utility Scripts
-
-This project includes handy Bash scripts for image processing:
-
-- `scripts/make-montage.sh` — Batch rotate, resize, and create image montages.
-- `scripts/mark-rotation-candidates.sh` — (Describe functionality here.)
-
-### Usage
-
-From the project root, run:
-
-```sh
-bash scripts/make-montage.sh [folder] [columns]
-
-### 👨‍💻 Preparations
-Before you plan your launch, here's what you’ll (probably) need:
-
-1. **A Domain**  
-   If you don't already have one, check out:  
-   - https://namy.ai/  
-   - https://www.aidomaingenius.com/
-
-2. **A Server / Hosting**  
-   AWS is a solid choice. It’s a *bit* of a process, but it's free for the first year.  
-   Not mandatory for the course, but recommended if you're serious about launching your site.
-
-   ✅ **You’ll need:**  
-   - An AWS account (Prime users often already have one)  
-   - A domain (because a web server without a domain is like a house without an address)  
-   - Hosting (for that pro, client-ready feel)
-
-3. **A GitHub Account**  
-   Yes, GitHub is free. And yes, you’ll need it for this course.  
-   Git (the version control system invented by Linus Torvalds) ≠ GitHub (the cloud platform to store/share your code).  
-   You’ll learn Git here—it’s the secret sauce behind *any* pro project.
-
-
-### 🔗 GitHub Setup (optional but rad)
-1. Install GitHub CLI
-```bash
-brew install gh
-```
-
-2. Authenticate (first time only)
-```bash
-gh auth login
-```
-
-Choose GitHub.com, HTTPS, and follow the prompts.
-
-3. Init Git (if not already done)
-```bash
-git init
-```
-4. Create a public repo & Push to GitHub (going public is part of the learning experience)
-```bash
-gh repo create ux-high-bias --public --source=. --remote=origin
-```
-
-5. Commit & Push (only git commands, you ever need to remember)
-```bash
-git add .
-git commit -m "Initial commit"
-git push -u origin main
-```
+> **A high-opinionated UX dev starter. Vibe-code-first.**  
+> UX is never neutral, so why should your code be?
 
 ---
+
+## 💡 What is this?
+
+**UX-HIGH-BIAS** is my current creative stack and vibe-coding playground. It’s a public lab where I share what I’m building, testing, and automating — from image montage scripts to experiments in portfolio UX design.
+
+This repo is **alive and evolving**. Expect it to shift into a **ready-to-use UX portfolio builder** designed for "vibe code wannabes" trying to stand out and get hired in a chaotic job market.
+
+---
+
+## 🧪 What's inside?
+
+- 🎛️ **Vibe-Code Stack**  
+  Tailored for expressive, fast, opinionated front-end UX work.
+
+- 🎞️ **Creative Automation Scripts**  
+  Includes workflows for generating image montages and other visual assets — perfect for documenting work in a dynamic, analog-inspired way.
+
+- 🧰 **UX Portfolio Templates** *(coming soon)*  
+  Will morph into reusable components and layouts inspired by real UX hiring needs.
+
+---
+
+## 📦 Stack
+
+- [Next.js](https://nextjs.org/) v15+
+- [Tailwind CSS](https://tailwindcss.com/)
+- [AWS Amplify](https://docs.amplify.aws/)
+- Bash & custom scripts for creative automation
+
+---
+
+## 🧭 Philosophy
+
+- ✂️ Rough sketch > pixel perfection  
+- 🎨 Aesthetic is UX  
+- 🛠️ Real tools, no filler  
+- 🧠 Build fast. Learn loud. Ship strange.  
+
+---
+
+## 🚧 In Progress
+
+- [ ] Image montage pipeline (scripted & stylized)
+- [ ] UX case study components
+- [ ] Deploy-to-portfolio workflow
+- [ ] Theme presets for different “vibes”
+
+---
+
+## 🌀 Who’s this for?
+
+- Aspiring UX-ers trying to break into the industry with standout work
+- Designers who want to vibe-code their way to a job-ready portfolio
+- Indie hackers, creative devs, and general weirdos with a UX bent
+
+---
+
+## 🗺️ Roadmap
+
+Soon this will become:
+- A **website builder** for UX portfolios
+- A set of **templates** and **guided prompts** for writing case studies
+- A public **learning journey** about making it as a UX dev today
+
+---
+
+## 🧠 Bonus Idea
+
+**Fork it. Vibe it. Ship it.**  
+Make this your own. Customize your voice. Share your story.
